@@ -2,6 +2,7 @@
 
 * [Giới thiệu](README.md)
 * [Raw](Raw/Chapter1.md)
+  * [Mở đầu](Raw/_Opening.md)
   * [Chương 1](Raw/Chapter1.md)
   * [Chương 2](Raw/Chapter2.md)
   * [Chương 3](Raw/Chapter3.md)
