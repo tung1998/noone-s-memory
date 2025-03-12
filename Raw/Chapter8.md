@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 8: Seiromemdas
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 8: Seiromemdas
 
 Không có một ranh giới rõ ràng giữa việc bị mắc kẹt và được giải thoát. Những cơn sóng dữ liệu méo mó đã tan biến, và không gian xung quanh đã lấy lại sự ổn định mong manh. Cậu vẫn đang ở trong giấc mơ, nhưng không còn bị kéo đi theo ý chí của một thứ khác nữa.
 

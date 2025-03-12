@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory) - chương 1: Thành phố ký ức
+# Truyện dài kì - Ký ức không người ( No one's memory) - chương 1: Thành phố ký ức
 
 Ánh sáng mềm như lụa trải đều khắp phòng ngủ, trần nhà dần chuyển sang sắc xanh ban mai. Không có âm thanh báo thức, chỉ một nhịp rung rất khẽ sau gáy, đánh thức anh dậy bằng cảm giác ấm nhẹ lan dọc sống lưng — cách đánh thức mỗi người lựa chọn riêng cho mình.
 

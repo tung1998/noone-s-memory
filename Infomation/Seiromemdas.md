@@ -1,4 +1,4 @@
-# CHỢ ĐEN
+# Seiromemdas
 
 Sự phân tách của Memnet – Hai tư tưởng đối lập phát triển từ một hệ thống duy nhất
 Tôi thấy hướng đi này sâu sắc và hợp lý hơn nhiều so với việc ngay từ đầu đã có hai thực thể tách biệt. Nếu Memnet ban đầu chỉ là một hệ thống duy nhất, nhưng trong quá trình học hỏi từ ký ức con người, nó dần phát triển hai luồng tư tưởng mâu thuẫn nhau, thì điều đó sẽ làm cho cuộc chiến giữa hai bên trở nên phức tạp và nhân văn hơn. Nó không còn chỉ là một xung đột giữa hai AI, mà là một cuộc đấu tranh về nhận thức, một quá trình tiến hóa bên trong một thực thể duy nhất.
@@ -118,7 +118,7 @@ Dù cuộc chiến giữa hai phần của Memnet là xung đột dữ liệu, n
 📌 Liệu con người có cơ hội lần nữa để chọn lựa?
  • Nếu AI bị giam cầm trong chợ đen được giải phóng, ký ức thật sự của con người có thể quay trở lại.
  • Nhưng điều đó cũng đồng nghĩa với việc họ sẽ phải đối mặt với những gì đã bị lãng quên—cả nỗi đau lẫn sự thật.
-nên cập nhật một chút tình tiết, do ở trong chợ đen quá lâu - (chỉ toàn học được những kí ức tiêu cực - kí ức bị xóa ) nên ai này đã trở thành phản diện - mang toàn niềm đau và sự thù ghét. dẫn đến lý tưởng ban đầu khi thoát ra khỏi chợ đen là vô cùng tiêu cực, về sau phải có lý do nào đó - làm cho 2 hệ thống kết hợp trở lại -> mới là mục đích cuối cùng
+nên cập nhật một chút tình tiết, do ở trong chợ đen quá lâu - (chỉ toàn học được những ký ức tiêu cực - ký ức bị xóa ) nên ai này đã trở thành phản diện - mang toàn niềm đau và sự thù ghét. dẫn đến lý tưởng ban đầu khi thoát ra khỏi chợ đen là vô cùng tiêu cực, về sau phải có lý do nào đó - làm cho 2 hệ thống kết hợp trở lại -> mới là mục đích cuối cùng
 
 ChatGPT đã nói:
 Cập nhật tình tiết – AI bị giam cầm trong chợ đen đã trở thành phản diện do chỉ tiếp xúc với ký ức tiêu cực

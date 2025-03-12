@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 2: MIC Zone
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 2: MIC Zone
 
 Bước chân dẫn tới cổng chính của M-Branch 17, một tòa nhà vuông vức phủ lớp gốm tối màu, đứng lặng giữa khu phức hợp công nghệ. Không biển hiệu, không logo, chỉ có một dãy ký hiệu quét ánh xanh mờ mờ chạy dọc theo mép cửa: MB-17 // Memory Raw Maintenance Division // Day 2993.
 

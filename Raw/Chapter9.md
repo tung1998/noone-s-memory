@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 9: Kẻ Buôn Ký Ức
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 9: Kẻ Buôn Ký Ức
 
 Bạch Phong cảm nhận được sự thay đổi trong không khí trước khi nhìn thấy nó.
 

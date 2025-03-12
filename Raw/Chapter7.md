@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 7: Thợ săn kí ức ( Memory hunter )
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 7: Thợ săn ký ức ( Memory hunter )
 
 Bạch Phong không dừng lại, nhưng mỗi bước chân của cậu giờ đây đều nặng hơn một chút—không phải vì sợ hãi, mà vì cảm giác bị săn đuổi đã trở nên quá rõ ràng.
 

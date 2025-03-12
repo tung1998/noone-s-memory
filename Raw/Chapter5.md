@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 5: Sector 7
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 5: Sector 7
 
 Sector 7 không có quầy bar, không có bartender đứng sau quầy pha chế những ly rượu thủ công, cũng chẳng có những chai rượu thủy tinh xếp ngay ngắn trên kệ gỗ. Ở đây, không ai rót rượu bằng tay. Mọi thứ đều được vận hành qua SyncDrinks—hệ thống duy nhất được Memnet cấp phép, nơi cảm giác say không đến từ cồn mà từ một chuỗi tín hiệu trực tiếp tác động lên Memlink.
 

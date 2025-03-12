@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 3: Lần theo kí ức
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 3: Lần theo ký ức
 
 Bạch Phong hạ tay lên bàn thao tác, hít vào một hơi chậm rãi trước khi mở nhiệm vụ thứ 16. Màn hình giao diện hologram phản chiếu ánh sáng xanh nhạt lên gương mặt cậu, dữ liệu ký ức lỗi cấp C2 trượt qua tầm mắt, một đoạn ký ức cần xử lý ngay lập tức.
 

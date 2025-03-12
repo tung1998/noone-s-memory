@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 4: Cuộc họp tầng 17
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 4: Cuộc họp tầng 17
 
 Bạch Phong cầm hộp thức ăn trên tay, nhưng cậu chưa thực sự ăn gì. Những suy nghĩ về mảnh ký ức vô chủ vẫn quẩn quanh trong đầu,
 Mira, vẫn ngồi ở ghế đối diện, không bỏ lỡ bất kỳ thay đổi nào trên nét mặt cậu. Ánh mắt cô chớp nhanh về phía màn hình của Phong, nơi dòng chữ vẫn còn lơ lửng, phát sáng xanh nhạt giữa ánh sáng trầm ổn của phòng làm việc.

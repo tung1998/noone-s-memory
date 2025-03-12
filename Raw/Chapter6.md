@@ -1,4 +1,4 @@
-# Truyện dài kì - Kí ức không người ( No one's memory ) - chương 6: Chợ đen ( Dark market )
+# Truyện dài kì - Ký ức không người ( No one's memory ) - chương 6: Chợ đen ( Dark market )
 
 Bạch Phong ngồi đối diện với Quân Lăng, bàn tay cậu vô thức siết nhẹ mép ghế. Không gian của tầng 17 vẫn lạnh lẽo như trước, nhưng giây phút này, có gì đó nặng nề hơn cả hệ thống giám sát đang bao trùm lên họ.
 

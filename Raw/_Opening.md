@@ -1,7 +1,5 @@
 # Truyện dài kỳ - Ký ức không người (No One’s Memory) - Mở đầu
 
-## Truyện dài kỳ - Ký ức không người (No One’s Memory) - Mở đầu
-
     Ký ức ẩn – Không xác định nguồn gốc
 
     Mức độ hư hại: 67% Tình trạng: Đứt gãy / Trộn lẫn
@@ -16,11 +14,9 @@ Một thành phố chìm trong sương lạnh hiện ra. Những tòa nhà đổ
 
 Hình ảnh nhòe đi, tan rã như bị nhúng vào axit, để lại những mảng cháy xém, phân mảnh. Một dòng chữ nhỏ lóe nhanh sau lớp dữ liệu:
 
-```/terminal
-Ký ức này không thuộc về bất kỳ cá nhân nào
-Nguồn: Không xác định.
-Ghi nhận lần đầu: 01:32 AM, ngày thứ 2993 của Memnet.
-```
+    Ký ức này không thuộc về bất kỳ cá nhân nào
+    Nguồn: Không xác định.
+    Ghi nhận lần đầu: 01:32 AM, ngày thứ 2993 của Memnet.
 
 Giọng nói cuối cùng chỉ còn là tiếng thì thầm, nhỏ đến mức chỉ vang vọng trong tâm trí:
 
@@ -32,14 +28,12 @@ Người đàn ông nằm ngửa, mắt mở to chăm chú nhìn trần nhà sá
 
 Một ánh sáng xanh lóe nhanh nơi góc mắt. Giao diện kiểm tra giấc ngủ tự động kích hoạt:
 
-```/
-Trạng thái Memlink: Kết nối ổn định
-Không có dấu hiệu xâm nhập hay xóa dữ liệu.
-```
+    Trạng thái Memlink: Kết nối ổn định
+    Không có dấu hiệu xâm nhập hay xóa dữ liệu.
 
 Nhưng dòng thông báo cuối cùng xuất hiện khiến anh khẽ nhíu mày, một cảm giác cảnh giác bắt đầu len lỏi trong tâm trí:
 
-[Cảnh báo: Bạn vừa trải nghiệm một ký ức không xác định.]
+    Cảnh báo: Bạn vừa trải nghiệm một ký ức không xác định.
 
 "Ký ức không xác định"—thuật ngữ lạnh lùng và xa lạ mà chỉ những kỹ thuật viên ký ức như anh mới hiểu rõ. Một mảnh ký ức không chủ nhân, lạc loài giữa biển dữ liệu vô tận của Memnet. Anh ngồi bật dậy, cố gắng xua đi cảm giác bất an, nhưng trí óc đã bắt đầu quay cuồng với hàng loạt giả thuyết.
 
