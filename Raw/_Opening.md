@@ -1,8 +1,10 @@
 # Truyện dài kỳ - Ký ức không người (No One’s Memory) - Mở đầu
 
-```Ký ức ẩn – Không xác định nguồn gốc```
+## Truyện dài kỳ - Ký ức không người (No One’s Memory) - Mở đầu
 
-Mức độ hư hại: 67% Tình trạng: Đứt gãy / Trộn lẫn
+    Ký ức ẩn – Không xác định nguồn gốc
+
+    Mức độ hư hại: 67% Tình trạng: Đứt gãy / Trộn lẫn
 
 Màn hình nhấp nháy liên tục, những ký tự loang lổ như vệt mực lem trên giấy ướt. Giọng nói vang lên từng âm thanh méo mó, vỡ vụn, không thể xác định nguồn gốc.
 
