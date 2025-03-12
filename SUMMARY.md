@@ -1,8 +1,8 @@
 # Mục lục
 
-* [Giới thiệu](README.md)
-* [Raw](Raw/_Opening.md)
-  * [Mở đầu](Raw/_Opening.md)
+* [](README.md)
+* [](Raw/_Opening.md)
+  * [](Raw/_Opening.md)
   * [Chương 1](Raw/Chapter1.md)
   * [Chương 2](Raw/Chapter2.md)
   * [Chương 3](Raw/Chapter3.md)
