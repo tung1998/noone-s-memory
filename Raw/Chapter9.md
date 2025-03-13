@@ -215,3 +215,193 @@ Bạch Phong không đáp. Cậu biết câu trả lời, nhưng cậu muốn ng
 Người đàn ông khẽ nhếch môi.
 
 “Vì nó có thể làm được nhiều hơn thế.”
+
+Dưới ánh sáng mờ nhạt của những màn hình nhấp nháy, kẻ buôn ký ức giơ tay lên. Trong lòng bàn tay hắn, một quả cầu ánh sáng từ từ xuất hiện—nhưng không tỏa ra thứ ánh sáng thuần khiết. Bề mặt nó rung động nhẹ, những tia sáng tối mờ quấn vào nhau như một dạng dữ liệu bị vặn xoắn, không ổn định. Một thứ gì đó bất an, rạn nứt.
+
+Hắn xoay nhẹ bàn tay, để khối cầu lơ lửng trong không khí một giây, rồi liếc nhìn Bạch Phong.
+
+“Cậu có biết đây là gì không?”
+
+Bạch Phong nhìn chằm chằm vào quả cầu. Nó rất giống với những dữ liệu ký ức cậu từng xử lý—nhưng cũng có gì đó sai sai. Một thứ gì đó đậm đặc hơn, nặng nề hơn. Không phải một ký ức đơn thuần, mà là một thứ gì đó đã bị kẹt lại, không thể phân rã, không thể thoát ra.
+
+Cậu cảm nhận được sự bất ổn trong đó.
+
+“… Một khối ký ức,” cậu nói khẽ, mắt không rời khỏi nó.
+
+Kẻ buôn ký ức mỉm cười, nụ cười nhợt nhạt như thể hắn đã nghe câu trả lời này hàng trăm lần.
+
+“Đúng, nhưng không chỉ vậy.” Hắn xoay nhẹ cổ tay, và bên trong khối cầu, một hình ảnh lóe lên—những khuôn mặt méo mó, những tiếng gào thét bị bóp nghẹt, những ký ức vỡ vụn chồng chất lên nhau. “Đây là những thứ đang chiếm lấy Mnemonic Shard.”
+
+Bạch Phong không rời mắt khỏi những hình ảnh méo mó bên trong. Mọi ký ức đều có một hình dạng nhất định, nhưng thứ này… nó bị vặn xoắn đến mức không còn nhận ra đâu là thực, đâu là ảo.
+
+Kẻ buôn ký ức nheo mắt nhìn cậu, giọng hắn chậm rãi, nhưng có một tia sắc lạnh ẩn sâu trong từng chữ.
+
+“Nếu cậu muốn có Mnemonic Shard, cậu phải loại bỏ được đống dữ liệu này.” Hắn để khoảng lặng kéo dài vài giây, rồi cúi nhẹ đầu, giọng trầm hơn. “Và tôi sẽ cảnh báo trước—việc này không giống như khi cậu làm việc ở MIC.”
+
+Bạch Phong siết chặt tay. Cậu đã lường trước điều này, nhưng khi đối diện trực tiếp với nó, cậu vẫn cảm thấy một áp lực vô hình đè lên.
+
+“Cậu đã từng xử lý những ký ức bị hỏng, đúng không?” Kẻ buôn ký ức nhìn cậu chăm chú. “Nhưng đây không chỉ là ký ức hỏng. Đây là những thứ đã bị loại bỏ, bị quên lãng, bị đẩy ra ngoài hệ thống. Chúng không còn liên kết với bất kỳ ai, không còn một điểm gốc nào để bám vào.”
+
+Hắn dừng một chút, giọng hắn trở nên nặng nề hơn.
+
+“Chúng không muốn bị xóa. Chúng sẽ bám vào bất cứ thứ gì có thể.”
+
+Bạch Phong cảm thấy một cơn lạnh chạy dọc sống lưng.
+
+“Cậu có sẵn sàng đánh mất bản thân để đổi lấy thứ mình muốn không?” Kẻ buôn ký ức nghiêng đầu, đôi mắt tối sẫm như thể đang nhìn thẳng vào ý thức của cậu.
+
+Căn phòng bỗng trở nên yên lặng một cách bất thường.
+
+Bạch Phong không trả lời ngay. Cậu nhìn khối cầu ký ức một lúc lâu, suy xét từng lời hắn nói.
+
+Cậu đã từng bước vào những ký ức không thuộc về mình. Đã từng cảm nhận những nỗi đau không phải của cậu. Nhưng chưa bao giờ cậu đứng trước một thứ có thể nuốt trọn chính bản thân cậu.
+
+Bạch Phong hít một hơi chậm, mắt cậu tối lại.
+
+Cậu không đến đây để rút lui.
+Khi bàn tay của Kẻ Buôn Ký Ức đẩy nhẹ về phía trước, quả cầu ký ức trôi dạt đến gần Bạch Phong như một mảnh vỡ của quá khứ lặng lẽ tìm về chủ nhân.
+
+Ngay khi cậu chạm vào nó, dòng dữ liệu bên trong bùng nổ.
+
+Không có cảnh báo.
+Không có lối thoát.
+
+Chỉ có một cảm giác chấn động mạnh mẽ, như thể cậu vừa mở một cánh cửa đã bị khóa chặt từ rất lâu, và toàn bộ những gì bị giam cầm phía sau đó đang tràn vào cậu như một trận lũ dữ.
+
+Cậu không còn ở trong căn phòng nữa.
+
+Không còn ánh sáng lập lòe từ những màn hình.
+Không còn giọng nói của Kẻ Buôn Ký Ức hay ánh mắt quan sát của Seiromemdas.
+Không còn thực tại.
+
+Chỉ còn một khoảng không vô tận, nơi những ký ức bị xé nát vẫn đang trôi nổi, lạc lõng trong chính câu chuyện dang dở của chúng.
+
+Những hình ảnh rời rạc hiện lên—một chuỗi ký ức không liền mạch, vỡ vụn như những mảnh gương bị ai đó đập nát rồi bỏ lại. Những ký ức này đã từng thuộc về ai đó, nhưng giờ chỉ còn là những phần sót lại của một câu chuyện đã bị xóa mất đoạn kết.
+
+Một cô gái.
+
+Bóng dáng cô mờ nhạt, như thể ánh sáng trong ký ức đã bị rút cạn. Cô không có tên, không có tiếng nói, nhưng cậu có thể cảm nhận nỗi buồn trong từng cử động—một sự mệt mỏi vô tận, một sự lạc lõng kéo dài đến tận cùng ý thức.
+
+Những hình ảnh xoay vòng xung quanh cô.
+
+Một người con gái đứng dưới cơn mưa lạnh lẽo, ánh đèn đường phản chiếu bóng dáng cô đơn.
+Một bàn tay vươn ra, cố nắm lấy ai đó, nhưng chỉ chạm vào khoảng không.
+Một căn phòng trống, nơi cô từng tồn tại, nhưng giờ chỉ còn lại những ký ức mờ nhạt như những bức ảnh bạc màu.
+Một tiếng gọi nghẹn ngào giữa dòng người xa lạ—không ai đáp lại.
+
+Và rồi tất cả lại vỡ tan.
+
+Cảm xúc tràn vào Bạch Phong như một cơn sóng dữ—sự tuyệt vọng, nỗi cô đơn kéo dài đến tận xương tủy, một nỗi đau quá lớn đến mức ngay cả hơi thở cũng trở nên nặng nề.
+
+Cậu có thể loại bỏ cô ngay lập tức.
+
+Chỉ cần một chút tập trung, cậu có thể cắt đứt kết nối giữa ký ức này và Mnemonic Shard, để nó trở thành một phần của những thứ đã thực sự biến mất.
+
+Nhưng cậu không làm vậy.
+
+Vì cậu nhận ra một điều quan trọng—
+
+Cô không muốn biến mất.
+Cô chỉ đang tìm đường về nhà.
+
+Cậu đứng đó, không vội vã, không cố thay đổi bất cứ điều gì.
+
+Cậu lắng nghe.
+
+Cô chưa từng có ai để lắng nghe mình.
+
+Những người khác, nếu họ chạm vào ký ức này, có lẽ họ sẽ sợ hãi mà đẩy nó ra, hoặc họ sẽ để nó nhấn chìm họ trong nỗi đau không đáy.
+
+Nhưng Bạch Phong không chọn làm điều đó.
+
+Cậu không cố sửa chữa cô.
+Cậu không cố kéo cô ra khỏi nỗi đau của mình.
+
+Cậu chỉ chậm rãi ngồi xuống, ở lại bên cạnh cô.
+
+Một khoảnh khắc dài, thật dài.
+
+Cô gái ấy vẫn đứng đó, bóng dáng cô run rẩy giữa ký ức không trọn vẹn. Cô lặp đi lặp lại những hình ảnh đau buồn, như thể chỉ có thế giới đó là thứ duy nhất còn tồn tại đối với cô.
+
+Bạch Phong không ép buộc cô phải buông bỏ.
+
+Cậu chỉ chạm vào cảm xúc của cô, nhẹ nhàng, không áp đặt.
+
+“Cô đã đi rất xa.”
+
+Giọng cậu không cố kéo cô ra khỏi quá khứ, chỉ đơn giản là công nhận sự tồn tại của cô.
+
+Cô gái khẽ run lên, như thể lần đầu tiên có ai đó thực sự nhận ra cô.
+
+“Nhưng cô không cần phải đi một mình.”
+
+Những ký ức không còn hình dạng bắt đầu dịu lại.
+
+Cô nhìn cậu, ánh mắt mông lung, nhưng lần đầu tiên không còn sự vô định tuyệt đối.
+
+Bạch Phong đưa tay ra, không để kéo cô đi, mà để cô tự quyết định.
+
+Lựa chọn thuộc về cô.
+
+Một thoáng chần chừ.
+
+Rồi, cô đưa tay ra, đặt lên lòng bàn tay cậu.
+
+Khoảnh khắc đó, cậu cảm nhận được tất cả những gì còn lại trong cô—một phần ký ức chưa hoàn chỉnh, một nỗi đau chưa bao giờ được chấp nhận, một linh hồn vẫn đang lạc lối.
+
+Cậu quyết định giữ lấy nó.
+
+Không phải để chiếm giữ.
+Không phải để thay thế.
+
+Mà để cho nó một nơi trú ẩn tạm thời, cho đến khi cậu có thể tìm lại tất cả những gì còn thiếu.
+
+Cậu hứa.
+
+Không phải bằng lời nói, mà bằng sự hiện diện của chính mình.
+
+Khoảnh khắc ấy, cô đã tin tưởng cậu.
+
+Ký ức tan vào cơ thể Bạch Phong, như một giọt nước rơi xuống đại dương, không còn đau đớn, không còn quẫy đạp.
+
+Nó cuối cùng cũng tìm được một nơi để dừng lại.
+
+Bạch Phong mở mắt.
+
+Cậu vẫn đứng trong căn phòng cũ.
+
+Ánh sáng từ những màn hình lập lòe phản chiếu lên khuôn mặt cậu, nhưng cảm giác hoàn toàn khác so với trước đó.
+
+Trên bàn, Mnemonic Shard đã trống rỗng.
+
+Không còn những ký ức mắc kẹt, không còn những bóng ma của quá khứ. Nó đã hoàn toàn sạch sẽ, sẵn sàng để sử dụng.
+
+Nhưng trong lòng Bạch Phong, một phần ký ức vẫn còn đó.
+
+Nó không còn ở trong Mnemonic Shard nữa, nhưng nó cũng chưa biến mất.
+
+Nó đã trở thành một phần của cậu.
+
+Seiromemdas vẫn nhìn cậu, lần này không còn là sự tò mò đơn thuần nữa.
+
+Kẻ Buôn Ký Ức chậm rãi dựa lưng vào ghế, ánh mắt hắn tối lại, như thể hắn đang cố đoán xem cậu vừa làm gì.
+
+Hắn đã mong chờ một kẻ đến đây để lấy đi Mnemonic Shard, để sử dụng nó như một công cụ.
+
+Nhưng hắn không mong chờ một kẻ sẽ mang theo một phần ký ức bị xóa đi, như thể gánh trên vai một linh hồn không ai còn nhớ đến.
+
+“Cậu thực sự chọn làm vậy à?” Hắn hỏi, giọng hắn không còn sắc bén như trước.
+
+Bạch Phong không đáp ngay.
+
+Cậu nhìn Mnemonic Shard một lúc, rồi nắm chặt nó trong tay.
+
+Rồi cậu ngước lên, ánh mắt tĩnh lặng nhưng sâu thẳm.
+
+“Không phải mọi ký ức đều đáng bị lãng quên.”
+
+Kẻ Buôn Ký Ức nhìn cậu thêm một lúc lâu, rồi hắn bật cười nhỏ—nhưng lần này, không còn sự giễu cợt.
+
+Seiromemdas cũng chậm rãi nheo mắt, nhưng không nói gì.
+
+Cậu biết, từ giây phút này trở đi, mọi thứ sẽ không còn giống như trước nữa.
