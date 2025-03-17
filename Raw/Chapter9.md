@@ -372,36 +372,82 @@ Cậu vẫn đứng trong căn phòng cũ.
 
 Ánh sáng từ những màn hình lập lòe phản chiếu lên khuôn mặt cậu, nhưng cảm giác hoàn toàn khác so với trước đó.
 
-Trên bàn, Mnemonic Shard đã trống rỗng.
+Bạch Phong cảm thấy nhịp thở của mình dần trở lại bình thường sau cơn trải nghiệm vừa qua. Cậu không chắc mình đã làm gì, nhưng cậu biết chắc một điều: cậu đã thay đổi thứ gì đó trong mảnh ký ức kia.
 
-Không còn những ký ức mắc kẹt, không còn những bóng ma của quá khứ. Nó đã hoàn toàn sạch sẽ, sẵn sàng để sử dụng.
+Kẻ Buôn Ký Ức quan sát cậu một lúc lâu, ánh mắt hắn nửa như thăm dò, nửa như hài lòng.
 
-Nhưng trong lòng Bạch Phong, một phần ký ức vẫn còn đó.
+"Thú vị thật đấy." Hắn nhấc chiếc cốc kim loại lên, xoay nhẹ giữa những ngón tay, như thể đang cân nhắc một điều gì đó. "Cậu không chọn cách đơn giản."
 
-Nó không còn ở trong Mnemonic Shard nữa, nhưng nó cũng chưa biến mất.
+Bạch Phong không trả lời ngay. Cậu vẫn cảm nhận dư chấn từ luồng dữ liệu tiêu cực kia, nhưng cũng đồng thời nhận ra một điều: nó đã biến mất, hoặc ít nhất không còn đè nặng lên Mnemonic Shard nữa.
 
-Nó đã trở thành một phần của cậu.
+"Vậy bây giờ tôi có thể lấy thứ mình cần không?" Cậu hỏi.
 
-Seiromemdas vẫn nhìn cậu, lần này không còn là sự tò mò đơn thuần nữa.
+Kẻ Buôn Ký Ức nhếch môi. "Không vội thế chứ. Thứ cậu cần không phải ở đây."
 
-Kẻ Buôn Ký Ức chậm rãi dựa lưng vào ghế, ánh mắt hắn tối lại, như thể hắn đang cố đoán xem cậu vừa làm gì.
+Bạch Phong cau mày. "Ý ông là gì?"
 
-Hắn đã mong chờ một kẻ đến đây để lấy đi Mnemonic Shard, để sử dụng nó như một công cụ.
+Hắn đặt cốc xuống, đôi mắt lướt qua màn hình dữ liệu đang trôi nổi giữa không trung. "Mnemonic Shard là một thứ hiếm có, nhưng không ai giữ nó lâu. Chúng liên tục di chuyển, đổi chủ. Những kẻ từng nắm giữ chúng đều để lại dấu vết—dấu vết mà Memnet muốn xóa sạch."
 
-Nhưng hắn không mong chờ một kẻ sẽ mang theo một phần ký ức bị xóa đi, như thể gánh trên vai một linh hồn không ai còn nhớ đến.
+Hắn nhấn một nút trên giao diện trước mặt. Một dãy tọa độ hiện lên trong không gian, lấp lánh như một chuỗi ký ức chưa được mã hóa.
 
-“Cậu thực sự chọn làm vậy à?” Hắn hỏi, giọng hắn không còn sắc bén như trước.
+"Đây là nơi gần nhất mà tôi biết có thể tìm thấy nó."
 
-Bạch Phong không đáp ngay.
+Bạch Phong nhìn những con số, cố gắng phân tích trong đầu. Nó không phải tọa độ của bất kỳ điểm nào trong chợ đen. Nó thuộc về thế giới thực.
 
-Cậu nhìn Mnemonic Shard một lúc, rồi nắm chặt nó trong tay.
+Cậu ngẩng lên. "Ngoài kia sao?"
 
-Rồi cậu ngước lên, ánh mắt tĩnh lặng nhưng sâu thẳm.
+Kẻ Buôn Ký Ức cười nhạt. "Cậu nghĩ cái gì cũng có thể tìm thấy ở đây à? Chợ đen chỉ là một tầng của thực tại, nhưng có những thứ mà kể cả nơi này cũng không giữ nổi."
 
-“Không phải mọi ký ức đều đáng bị lãng quên.”
+Cảm giác bất an dâng lên trong lòng Bạch Phong. Nếu Mnemonic Shard thực sự ở ngoài kia, điều đó có nghĩa là cậu sẽ phải rời khỏi sự an toàn của chợ đen, đối mặt với Memnet một lần nữa. Nhưng cậu không có lựa chọn nào khác.
 
-Kẻ Buôn Ký Ức nhìn cậu thêm một lúc lâu, rồi hắn bật cười nhỏ—nhưng lần này, không còn sự giễu cợt.
+Cậu cầm lấy dữ liệu, lưu nó vào hệ thống cá nhân của mình. "Cảm ơn."
 
-Seiromemdas cũng chậm rãi nheo mắt, nhưng không nói gì.
+Kẻ Buôn Ký Ức nghiêng đầu, quan sát cậu một lần nữa, như thể vẫn đang cân nhắc điều gì đó.
 
-Cậu biết, từ giây phút này trở đi, mọi thứ sẽ không còn giống như trước nữa.
+"Trước khi cậu đi," hắn nói, "tôi có một yêu cầu."
+
+Bạch Phong siết nhẹ nắm tay. "Ông muốn gì?"
+
+"Quay lại đây."
+
+Cậu cau mày.
+
+Kẻ Buôn Ký Ức dựa lưng vào ghế, giọng hắn trầm xuống. "Không ai giúp đỡ miễn phí, cậu biết mà. Cậu muốn tìm lại ký ức, muốn đối mặt với sự thật, nhưng điều đó không chỉ quan trọng với một mình cậu. Chợ đen có rất nhiều ký ức bị lãng quên, rất nhiều linh hồn bị mắc kẹt. Tôi không yêu cầu cậu phải cứu tất cả bọn họ, nhưng một ngày nào đó, khi cậu đủ khả năng… tôi mong cậu sẽ quay lại."
+
+Bạch Phong không trả lời ngay. Cậu nhìn hắn thật lâu, cố tìm hiểu xem lời nói ấy có phải chỉ là một cách để ràng buộc cậu hay không.
+
+Nhưng trong mắt hắn, không có sự ép buộc. Chỉ có sự trông đợi.
+
+Một kẻ sống sót trong chợ đen, nắm giữ những mảnh ký ức mà không ai muốn chạm vào. Một kẻ vẫn giữ lại một chút gì đó của con người mình, dù đã mất gần như tất cả.
+
+Bạch Phong hít một hơi thật sâu.
+
+"Tôi sẽ quay lại." Cậu nói.
+
+Không phải vì một lời hứa. Mà vì cậu biết mình sẽ phải quay lại.
+
+Rồi cậu bước ra khỏi căn phòng, bóng lưng dần chìm vào ánh sáng mờ nhạt của chợ đen
+
+Kẻ Buôn Ký Ức nhìn theo cánh cửa đóng lại sau lưng Bạch Phong, ánh mắt hắn không còn vẻ hờ hững như trước.
+
+Hắn đứng yên trong vài giây, như thể đang suy nghĩ điều gì đó, rồi chậm rãi bước đến một bức tường phía bên phải căn phòng.
+
+Bàn tay hắn lướt nhẹ qua bề mặt, và rồi, một cánh cửa khác mở ra.
+
+Không giống như lối vào chợ đen. Không giống như bất kỳ cánh cửa nào dẫn đến giao dịch và buôn bán.
+
+Bên trong, ánh sáng mờ nhạt và hỗn loạn.
+
+Hàng chục, hàng trăm quả cầu ký ức—giống như quả cầu hắn đã đưa cho Bạch Phong—đang trôi nổi lặng lẽ, chờ đợi một ai đó nhìn thấy chúng.
+
+Những ký ức bị xóa, những câu chuyện chưa kịp hoàn thành, những con người đã từng tồn tại nhưng không còn ai nhớ đến.
+
+Hắn đưa tay ra, chạm vào một trong số chúng.
+
+Quả cầu ký ức khẽ rung lên, như thể nó vừa cảm nhận được một sự tồn tại khác.
+
+Hắn nhắm mắt lại một lúc, rồi rút tay về, quay người rời khỏi căn phòng, để cánh cửa tự động khép lại phía sau.
+
+Trong bóng tối, những ký ức vẫn im lặng chờ đợi.
+
+Chờ một ai đó sẽ quay lại.

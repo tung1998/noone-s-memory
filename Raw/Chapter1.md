@@ -2,6 +2,16 @@
 
 Ánh sáng mềm như lụa trải đều khắp phòng ngủ, trần nhà dần chuyển sang sắc xanh ban mai. Không có âm thanh báo thức, chỉ một nhịp rung rất khẽ sau gáy, đánh thức anh dậy bằng cảm giác ấm nhẹ lan dọc sống lưng — cách đánh thức mỗi người lựa chọn riêng cho mình.
 
+Ngay khi mở mắt, Bạch Phong cảm nhận được một chuyển động nhỏ ở cuối giường. Một khối lông mềm mại, ấm áp đang cuộn tròn lại, đuôi đung đưa nhịp chậm theo hơi thở đều đặn. Mika—một con mèo lông xám tro, với đôi mắt màu hổ phách sắc sảo, vẫn chưa có ý định tỉnh giấc.
+
+Cậu không nhớ mình đã nuôi nó từ khi nào. Đó có lẽ là một trong những ký ức nhỏ nhặt mà hệ thống không buồn lưu lại, hoặc đơn giản là một thói quen đã ăn sâu vào cơ thể hơn là trí óc. Nhưng mỗi sáng, khi tỉnh dậy, cậu luôn thấy nó ở đó—một sự hiện diện không bao giờ thay đổi giữa thế giới trôi nổi này.
+
+Mika khẽ vươn vai, bộ lông dựng lên đôi chút trước khi nó nheo mắt nhìn cậu. Một tiếng "grừ" nhẹ phát ra từ cổ họng, như một lời phàn nàn ngái ngủ vì đã bị đánh thức quá sớm. Nó chậm rãi đứng dậy, bước từng bước lười biếng dọc theo chân cậu, rồi ngồi xuống ngay trên ngực cậu, đôi mắt nhìn chằm chằm như thể muốn chắc chắn rằng cậu thực sự đã tỉnh.
+
+"Tôi dậy rồi đây." Bạch Phong khẽ thở dài, đưa tay gãi nhẹ dưới cằm nó. Mika dụi đầu vào lòng bàn tay cậu, nhưng ngay khi cậu định rút tay lại, nó cắn nhẹ một cái—không mạnh, chỉ vừa đủ để nhắc nhở rằng buổi sáng của nó chưa kết thúc.
+
+Không vội rời giường, cậu nhìn lên trần nhà nơi những dòng chữ mờ nhạt vẫn đang hiện ra, ghi lại những giấc mơ đêm qua. Nhưng mắt cậu chỉ lướt qua chúng, không dừng lại quá lâu. Một phần vì những giấc mơ ấy hiếm khi quan trọng, một phần vì ngay lúc này, Mika đã quyết định vươn người nhảy xuống sàn, đôi chân mềm mại tiếp đất không gây ra tiếng động. Nó hướng về phía cửa, cái đuôi vẫy nhẹ, rồi ngoái lại nhìn cậu với ánh mắt mang ý nghĩa rõ ràng
+
 Anh mở mắt, nhìn thẳng lên trần nhà nơi những dòng chữ mờ nhạt đang hiện ra, ghi lại những giấc mơ đêm qua. Không phải ai cũng đủ sức để cài đặt tính năng này, nhưng với một kỹ sư từng làm việc trực tiếp cho Memnet, đó là chuyện vô cùng dễ dàng.
   
 Giấc mơ đầu tiên: “Mùa hè trên núi, gió thổi mùi cỏ cháy.”
@@ -117,6 +127,12 @@ Một ngày mới — bắt đầu như mọi ngày khác. Nhưng mảnh ký ứ
 Cửa trượt mở ra. Không khí buổi sáng tràn vào, mát lành nhưng có chút mùi ozone nhân tạo — đặc trưng của hệ thống lọc không khí thành phố. Đứng ngay ngưỡng cửa, anh hít một hơi đầy phổi, mắt lướt qua dãy nhà phía đối diện. Những bức tường kính mềm mại phản chiếu ánh sáng ban mai thành những vệt lấp lánh, giống như mặt hồ nhấp nhô dưới cơn gió nhẹ.
 
 Anh bước ra.
+
+Mika vẫn nằm lười biếng trên bệ cửa sổ, đôi mắt hổ phách nửa khép nửa mở, dõi theo từng cử động của cậu với vẻ thờ ơ đặc trưng. Khi cậu xỏ giày, con mèo khẽ vươn mình, duỗi dài hai chân trước rồi quay lưng, co tròn lại như thể vừa xác nhận rằng hôm nay cũng không có gì đáng quan tâm.
+
+"Trông cậu còn lười hơn tôi nữa." Bạch Phong lầm bầm, nhưng Mika chỉ nhấc tai lên một chút rồi lại vùi đầu vào đám lông mềm.
+
+Cánh cửa khép lại sau lưng, để lại căn hộ trong một sự im lặng dễ chịu, chỉ còn lại tiếng hít thở chậm rãi của con mèo trong ánh sáng ban mai.
 
     [Chào buổi sáng. Nhiệt độ: 23 độ C. Không có mưa. Mức stress cá nhân: 12%. Gợi ý hoạt động: Tản bộ 15 phút trước khi làm việc.]
 
