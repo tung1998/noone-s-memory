@@ -438,7 +438,7 @@ Không giống như lối vào chợ đen. Không giống như bất kỳ cánh 
 
 Bên trong, ánh sáng mờ nhạt và hỗn loạn.
 
-Hàng chục, hàng trăm quả cầu ký ức—giống như quả cầu hắn đã đưa cho Bạch Phong—đang trôi nổi lặng lẽ, chờ đợi một ai đó nhìn thấy chúng.
+Hàng ngàn, hàng triệu quả cầu ký ức—giống như quả cầu hắn đã đưa cho Bạch Phong—đang trôi nổi lặng lẽ, chờ đợi một ai đó nhìn thấy chúng.
 
 Những ký ức bị xóa, những câu chuyện chưa kịp hoàn thành, những con người đã từng tồn tại nhưng không còn ai nhớ đến.
 
