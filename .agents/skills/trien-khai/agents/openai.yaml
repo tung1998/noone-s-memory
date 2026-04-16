@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trien khai"
+  short_description: "Viet node thanh doan van dai, dung tone"
+  default_prompt: "Use $trien-khai to expand this scene node into polished prose."

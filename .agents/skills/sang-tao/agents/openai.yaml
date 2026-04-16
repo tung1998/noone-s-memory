@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sang tao"
+  short_description: "Mo rong y tuong, nut va huong truyen"
+  default_prompt: "Use $sang-tao to propose story directions from this brief."
