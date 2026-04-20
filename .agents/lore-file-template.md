@@ -8,7 +8,7 @@ Dùng mẫu này khi tạo file mới trong `Information/`.
 - Ví dụ:
   - `World.md`
   - `MnemonicShard.md`
-  - `Bạch_Phong_hkz-746-xy36f.md`
+  - `Character/Bạch_Phong_hkz-746-xy36f.md`
 
 ## Mẫu nội dung
 

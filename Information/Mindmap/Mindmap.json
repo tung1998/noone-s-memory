@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "id": "timeline.pre-collapse",
+      "file": "./Timeline/Pre-Collapse.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-digitization",
+          "target_file": "./Nodes/Memory-Digitization.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "timeline.great-fallen-2050",
+          "target_file": "./Timeline/Great-Fallen-2050.md"
+        }
+      ]
+    },
+    {
+      "id": "timeline.great-fallen-2050",
+      "file": "./Timeline/Great-Fallen-2050.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "node.great-fallen",
+          "target_file": "./Nodes/Great-Fallen.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "timeline.white-memory-era",
+          "target_file": "./Timeline/White-Memory-Era.md"
+        }
+      ]
+    },
+    {
+      "id": "timeline.white-memory-era",
+      "file": "./Timeline/White-Memory-Era.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "node.white-memory-era",
+          "target_file": "./Nodes/White-Memory-Era.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "timeline.memnet-rise-2052-2066",
+          "target_file": "./Timeline/Memnet-Rise-2052-2066.md"
+        }
+      ]
+    },
+    {
+      "id": "timeline.memnet-rise-2052-2066",
+      "file": "./Timeline/Memnet-Rise-2052-2066.md",
+      "relationships": [
+        {
+          "type": "introduces",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "introduces",
+          "target_id": "node.memlink",
+          "target_file": "./Nodes/Memlink.md"
+        },
+        {
+          "type": "introduces",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "timeline.controlled-memory-era-2066-2074",
+          "target_file": "./Timeline/Controlled-Memory-Era-2066-2074.md"
+        }
+      ]
+    },
+    {
+      "id": "timeline.controlled-memory-era-2066-2074",
+      "file": "./Timeline/Controlled-Memory-Era-2066-2074.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.unlinked",
+          "target_file": "./Nodes/Unlinked.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "timeline.story-trigger-2074",
+          "target_file": "./Timeline/Story-Trigger-2074.md"
+        }
+      ]
+    },
+    {
+      "id": "timeline.story-trigger-2074",
+      "file": "./Timeline/Story-Trigger-2074.md",
+      "relationships": [
+        {
+          "type": "introduces",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "introduces",
+          "target_id": "character.quan-lang",
+          "target_file": "./Character/Quan-Lang.md"
+        },
+        {
+          "type": "introduces",
+          "target_id": "node.ownerless-memory",
+          "target_file": "./Nodes/Ownerless-Memory.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.seiromemdas",
+          "target_file": "./Character/Seiromemdas.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "timeline.future-projection",
+          "target_file": "./Timeline/Future-Projection.md"
+        }
+      ]
+    },
+    {
+      "id": "timeline.future-projection",
+      "file": "./Timeline/Future-Projection.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "depends_on",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "depends_on",
+          "target_id": "character.seiromemdas",
+          "target_file": "./Character/Seiromemdas.md"
+        }
+      ]
+    },
+    {
+      "id": "character.bach-phong",
+      "file": "./Character/Bach-Phong.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.ownerless-memory",
+          "target_file": "./Nodes/Ownerless-Memory.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.quan-lang",
+          "target_file": "./Character/Quan-Lang.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.seiromemdas",
+          "target_file": "./Character/Seiromemdas.md"
+        }
+      ]
+    },
+    {
+      "id": "character.quan-lang",
+      "file": "./Character/Quan-Lang.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        }
+      ]
+    },
+    {
+      "id": "character.seiromemdas",
+      "file": "./Character/Seiromemdas.md",
+      "relationships": [
+        {
+          "type": "contrasts_with",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "timeline.future-projection",
+          "target_file": "./Timeline/Future-Projection.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memory-digitization",
+      "file": "./Nodes/Memory-Digitization.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "timeline.pre-collapse",
+          "target_file": "./Timeline/Pre-Collapse.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "timeline.great-fallen-2050",
+          "target_file": "./Timeline/Great-Fallen-2050.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        }
+      ]
+    },
+    {
+      "id": "node.great-fallen",
+      "file": "./Nodes/Great-Fallen.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "timeline.great-fallen-2050",
+          "target_file": "./Timeline/Great-Fallen-2050.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "node.white-memory-era",
+          "target_file": "./Nodes/White-Memory-Era.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        }
+      ]
+    },
+    {
+      "id": "node.white-memory-era",
+      "file": "./Nodes/White-Memory-Era.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "timeline.white-memory-era",
+          "target_file": "./Timeline/White-Memory-Era.md"
+        },
+        {
+          "type": "precedes",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memnet",
+      "file": "./Nodes/Memnet.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "node.memlink",
+          "target_file": "./Nodes/Memlink.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "targets",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "targets",
+          "target_id": "node.unlinked",
+          "target_file": "./Nodes/Unlinked.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.ownerless-memory",
+          "target_file": "./Nodes/Ownerless-Memory.md"
+        },
+        {
+          "type": "contrasts_with",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "contrasts_with",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memlink",
+      "file": "./Nodes/Memlink.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        }
+      ]
+    },
+    {
+      "id": "node.mic-zone",
+      "file": "./Nodes/MIC-Zone.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.ownerless-memory",
+          "target_file": "./Nodes/Ownerless-Memory.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "timeline.story-trigger-2074",
+          "target_file": "./Timeline/Story-Trigger-2074.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memory-erasure",
+      "file": "./Nodes/Memory-Erasure.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.quan-lang",
+          "target_file": "./Character/Quan-Lang.md"
+        },
+        {
+          "type": "contrasts_with",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        }
+      ]
+    },
+    {
+      "id": "node.unlinked",
+      "file": "./Nodes/Unlinked.md",
+      "relationships": [
+        {
+          "type": "contrasts_with",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "timeline.controlled-memory-era-2066-2074",
+          "target_file": "./Timeline/Controlled-Memory-Era-2066-2074.md"
+        }
+      ]
+    },
+    {
+      "id": "node.ownerless-memory",
+      "file": "./Nodes/Ownerless-Memory.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "contrasts_with",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        }
+      ]
+    },
+    {
+      "id": "node.dark-memory-market",
+      "file": "./Nodes/Dark-Memory-Market.md",
+      "relationships": [
+        {
+          "type": "contrasts_with",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "depends_on",
+          "target_id": "node.memlink",
+          "target_file": "./Nodes/Memlink.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.quan-lang",
+          "target_file": "./Character/Quan-Lang.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.seiromemdas",
+          "target_file": "./Character/Seiromemdas.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.ownerless-memory",
+          "target_file": "./Nodes/Ownerless-Memory.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        }
+      ]
+    },
+    {
+      "id": "node.mnemonic-shard",
+      "file": "./Nodes/Mnemonic-Shard.md",
+      "relationships": [
+        {
+          "type": "contrasts_with",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.quan-lang",
+          "target_file": "./Character/Quan-Lang.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.seiromemdas",
+          "target_file": "./Character/Seiromemdas.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.ownerless-memory",
+          "target_file": "./Nodes/Ownerless-Memory.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "timeline.future-projection",
+          "target_file": "./Timeline/Future-Projection.md"
+        }
+      ]
+    }
+  ]
+}

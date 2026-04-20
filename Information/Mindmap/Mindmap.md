@@ -2,6 +2,8 @@
 
 Tài liệu này là bản mindmap chữ của thế giới *No One's Memory*. Cấu trúc chia làm 3 lớp:
 
+Graph thuần liên kết nằm tại [Mindmap.json](./Mindmap.json). File JSON chỉ chứa `id`, `file`, và `relationships` giữa các node; không chứa tóm tắt nội dung.
+
 | Lớp | Mục đích | Đường dẫn |
 | --- | --- | --- |
 | Trục chính | Nhìn nhanh toàn bộ dòng thời gian và quan hệ giữa các node | [Mindmap.md](./Mindmap.md) |
@@ -17,8 +19,8 @@ Tài liệu này là bản mindmap chữ của thế giới *No One's Memory*. C
 | Kỷ nguyên trắng ký ức | Khủng hoảng danh tính, xã hội rơi vào trạng thái rỗng | Giải thích vì sao ký ức trở thành tài nguyên chính trị | [White-Memory-Era.md](./Timeline/White-Memory-Era.md), [White-Memory-Era.md](./Nodes/White-Memory-Era.md) |
 | Hình thành Memnet 2052-2066 | Cognitive Survivalists, Memlink, MIC, luật quản lý ký ức | Nhân loại dựng lại trật tự bằng hệ thống kiểm soát ký ức | [Memnet-Rise-2052-2066.md](./Timeline/Memnet-Rise-2052-2066.md), [Memnet.md](./Nodes/Memnet.md), [Memlink.md](./Nodes/Memlink.md), [MIC-Zone.md](./Nodes/MIC-Zone.md) |
 | Thời đại Memnet 2066-2074 | Kiểm duyệt ký ức, tự xóa ký ức, lỗi ký ức, người không kết nối | Bối cảnh vận hành thường nhật của thế giới hiện tại | [Controlled-Memory-Era-2066-2074.md](./Timeline/Controlled-Memory-Era-2066-2074.md), [Memory-Erasure.md](./Nodes/Memory-Erasure.md), [Unlinked.md](./Nodes/Unlinked.md) |
-| Điểm khởi phát truyện 2074 | Bạch Phong, ký ức vô chủ, MIC Zone 4, chợ đen | Mở chuỗi điều tra trung tâm của cốt truyện | [Story-Trigger-2074.md](./Timeline/Story-Trigger-2074.md), [Bach-Phong.md](./Nodes/Bach-Phong.md), [Ownerless-Memory.md](./Nodes/Ownerless-Memory.md), [Dark-Memory-Market.md](./Nodes/Dark-Memory-Market.md) |
-| Tương lai dự báo | Sụp đổ lần hai, sự thật về Đại Sụp Đổ, tái hợp hai hệ thống | Đích đến triết lý và xung đột cuối cùng | [Future-Projection.md](./Timeline/Future-Projection.md), [Seiromemdas.md](./Nodes/Seiromemdas.md), [Mnemonic-Shard.md](./Nodes/Mnemonic-Shard.md) |
+| Điểm khởi phát truyện 2074 | Bạch Phong, Quân Lăng, ký ức vô chủ, MIC Zone 4, chợ đen | Mở chuỗi điều tra trung tâm của cốt truyện | [Story-Trigger-2074.md](./Timeline/Story-Trigger-2074.md), [Bach-Phong.md](./Character/Bach-Phong.md), [Quan-Lang.md](./Character/Quan-Lang.md), [Ownerless-Memory.md](./Nodes/Ownerless-Memory.md), [Dark-Memory-Market.md](./Nodes/Dark-Memory-Market.md) |
+| Tương lai dự báo | Sụp đổ lần hai, sự thật về Đại Sụp Đổ, tái hợp hai hệ thống | Đích đến triết lý và xung đột cuối cùng | [Future-Projection.md](./Timeline/Future-Projection.md), [Seiromemdas.md](./Character/Seiromemdas.md), [Mnemonic-Shard.md](./Nodes/Mnemonic-Shard.md) |
 
 ## Dòng thời gian rút gọn
 
