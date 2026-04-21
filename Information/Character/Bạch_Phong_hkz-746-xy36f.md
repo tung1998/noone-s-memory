@@ -53,6 +53,38 @@ Thói quen kiểm tra ký ức và tránh đi theo lộ trình gợi ý của Me
 Ký ức lạc loài: Trong chương mở đầu, Phong trải nghiệm một ký ức không thuộc về ai, điều chưa từng xảy ra trong Memnet.
 Sự kiện trong MIC Zone: Trong chương 2, anh phát hiện một ký ức lỗi C2 có nội dung giống với mảnh ký ức lạ của mình, làm dấy lên nghi ngờ về sự rò rỉ ký ức.
 Cảm giác có gì đó sai lệch trong hệ thống: Anh có những linh cảm về sự bất ổn của Memnet, và dần phát hiện những điểm mờ ám trong hệ thống quản lý ký ức.
+7. Trục phát triển nhân vật
+Điểm khởi đầu:
+Phong không thiếu năng lực, không thiếu tỉnh táo, và cũng không thiếu nghi ngờ. Vấn đề của anh nằm ở chỗ anh vẫn nhìn ký ức chủ yếu như thứ phải được giữ đúng, giữ sạch, và giữ trong tầm kiểm soát.
+
+Nút phát triển chính:
+Arc của Phong không nên là "từ yếu thành mạnh", mà là từ người sửa lỗi thành người biết lắng nghe những ký ức không còn vừa với logic của hệ thống.
+
+Thứ anh cần học:
+- Không phải mọi ký ức lệch chuẩn đều là lỗi cần xóa.
+- Không phải cứ kiểm soát đủ chặt thì sẽ giữ được bản ngã.
+- Có những phần sự thật không thể "sửa" mà chỉ có thể mang theo và chịu đựng.
+- Giữ ký ức không chỉ là giữ dữ liệu của mình, mà còn là giữ quyền tồn tại của ký ức người khác.
+
+Hướng thay đổi:
+Từ người bảo vệ tính toàn vẹn dữ liệu, Phong dần trở thành người bảo vệ quyền tồn tại của ký ức, kể cả những ký ức méo, đau, và không còn được hệ thống công nhận.
+
+8. Năm mốc phát triển
+
+| Mốc | Trạng thái của Phong | Điều thay đổi |
+| --- | --- | --- |
+| Điểm đầu | Kỹ thuật viên cực giỏi, kín, ám ảnh kiểm tra và kiểm soát | Tin rằng chỉ cần đủ chính xác thì có thể ngăn mất mát |
+| Vết nứt đầu tiên | Gặp ký ức vô chủ và sai lệch không thể giải thích bằng quy trình quen thuộc | Bắt đầu nghi ngờ hệ thống không chỉ bỏ sót lỗi mà còn tạo ra khoảng trắng trong con người |
+| Sa lầy | Bước vào chợ đen, chạm vào ký ức bị loại bỏ, bị kéo lệch khỏi nhịp sống ổn định | Nhận ra có những ký ức không cần bị sửa mà cần được lắng nghe và cho chỗ tồn tại |
+| Lựa chọn khó | Đứng giữa Memnet và phần đối trọng của nó, không còn được phép chỉ quan sát | Buộc phải quyết định mình đang cứu dữ liệu, cứu con người, hay cứu một phần sự thật |
+| Điểm cuối | Không còn là người chỉ giữ ký ức cho riêng mình | Trở thành cầu nối cho một cách đối xử khác với ký ức: không phủ nhận đau đớn nhưng cũng không trả nó lại một cách hủy diệt |
+
+9. Nguyên tắc giữ đúng chất nhân vật khi viết tiếp
+- Phong vẫn phải là người nhìn ra dấu hiệu sớm hơn người khác; không làm anh chậm đi để kéo nhịp truyện.
+- Áp lực nên đến từ hệ thống, từ cái giá của việc biết quá nhiều, và từ xung đột ký ức, không phải từ việc anh đột nhiên kém đi.
+- Anh không phát triển theo hướng hùng biện hay anh hùng hành động; thế mạnh vẫn là cảm nhận, phân tích, chịu áp lực, và đưa ra lựa chọn khó.
+- Những thay đổi cảm xúc của anh nên lộ ra qua thói quen, độ do dự, cách anh đối xử với ký ức lạ và với Mira, hơn là qua lời thú nhận trực tiếp.
+- Càng về sau, điều bị bào mòn không phải năng lực của Phong mà là sự chắc chắn của anh về việc thế nào mới là "đúng".
 Tóm tắt & Đánh giá
 Bạch Phong là một nhân vật có chiều sâu, mang nhiều xung đột nội tâm. Anh không phải là một kẻ nổi loạn chống lại Memnet, nhưng cũng không hoàn toàn chấp nhận nó. Điều này tạo nên một nhân vật phức tạp, bị giằng xé giữa sự tin tưởng và hoài nghi.
 Anh có kỹ năng đặc biệt trong việc xử lý ký ức, nhưng chính điều đó khiến anh ý thức rõ hơn về sự mong manh của trí nhớ. Điều này đặt anh vào vị trí hoàn hảo để khám phá những bí mật về ký ức lạc loài.

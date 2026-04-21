@@ -85,6 +85,8 @@ Năm 2074, trong một thế giới nơi ký ức được `Memnet` quản lý n
 
 ### Gần hạn
 
+- Sau mốc `chương 9`, nên có một cụm hậu dư chấn trước khi leo tiếp: Phong mang theo di chứng và một ký ức từ chợ đen, Mira mở một tuyến riêng, và nhịp truyện dao động qua lại giữa thế giới thực với những lần quay lại chợ đen.
+- Trục hậu `chương 9` không nên xem là rời chợ đen hẳn, mà là bắt đầu mối quan hệ hai chiều giữa Phong và vùng ký ức bị loại bỏ.
 - Sau mốc `chương 9`, trọng tâm nên là truy dấu `Mnemonic Shard` trong thế giới thực.
 - Tăng áp lực giám sát từ `Memnet`, để Phong không thể vừa điều tra vừa vô hình mãi.
 - Cho thấy việc Phong giữ hoặc mang theo một phần ký ức lạc loài bắt đầu tạo hệ quả thật lên thân thể, hành vi, và quan hệ của cậu.
