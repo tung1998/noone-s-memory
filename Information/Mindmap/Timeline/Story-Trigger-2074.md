@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Ngày 2993 của Memnet | Bạch Phong phát hiện ký ức vô chủ | Một mảnh ký ức tồn tại mà không có chủ thể xác định |
 | Tại MIC Zone 4 | Xuất hiện lỗi ký ức tương đồng | Ký ức lỗi và ký ức vô chủ có dấu vết liên hệ |
+| Bên cạnh Phong | Mira bắt đầu nhận ra lệch nhỏ ở cậu | Tuyến người-thật được giữ song song với tuyến điều tra |
 | Sau phát hiện đầu tiên | Niềm tin của Phong bắt đầu rạn | Từ kỹ thuật viên trung thành thành người điều tra nội bộ |
 | Giai đoạn tiếp theo | Truy dấu ra chợ đen, Mnemonic Shard, Seiromemdas | Câu chuyện đi từ điều tra lỗi sang khám phá sự thật nền |
 
@@ -18,6 +19,7 @@
 | Node | Vai trò |
 | --- | --- |
 | Bạch Phong | Nhân vật nhìn ra sai lệch của hệ thống |
+| Mira | Người nhìn ra hệ quả con người trước khi mọi thứ thành lý thuyết |
 | MIC Zone 4 | Nơi lỗi được phát hiện dưới dạng kỹ thuật |
 | Ký ức vô chủ | Chìa khóa phá logic “mọi ký ức đều có hồ sơ” |
 | Chợ đen ký ức | Không gian đối trọng với Memnet |

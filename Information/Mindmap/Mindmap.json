@@ -68,6 +68,11 @@
           "target_file": "./Nodes/MIC-Zone.md"
         },
         {
+          "type": "introduces",
+          "target_id": "node.memnet-core",
+          "target_file": "./Nodes/Memnet-Core.md"
+        },
+        {
           "type": "precedes",
           "target_id": "timeline.controlled-memory-era-2066-2074",
           "target_file": "./Timeline/Controlled-Memory-Era-2066-2074.md"
@@ -87,6 +92,41 @@
           "type": "contains",
           "target_id": "node.memory-erasure",
           "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.memnet-society",
+          "target_file": "./Nodes/Memnet-Society.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.memory-inspectors",
+          "target_file": "./Nodes/Memory-Inspectors.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.memory-liberators",
+          "target_file": "./Nodes/Memory-Liberators.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.memory-suicide",
+          "target_file": "./Nodes/Memory-Suicide.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.sync-drinks",
+          "target_file": "./Nodes/Sync-Drinks.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.vung-trang",
+          "target_file": "./Nodes/Vung-Trang.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.nha-tre-khong-nguoi-nho",
+          "target_file": "./Nodes/Nha-tre-khong-nguoi-nho.md"
         },
         {
           "type": "contains",
@@ -116,6 +156,11 @@
         },
         {
           "type": "introduces",
+          "target_id": "character.mira",
+          "target_file": "./Character/Mira.md"
+        },
+        {
+          "type": "introduces",
           "target_id": "character.quan-lang",
           "target_file": "./Character/Quan-Lang.md"
         },
@@ -128,6 +173,11 @@
           "type": "contains",
           "target_id": "node.mic-zone",
           "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "contains",
+          "target_id": "node.m-branch-17",
+          "target_file": "./Nodes/M-Branch-17.md"
         },
         {
           "type": "connects_to",
@@ -183,6 +233,21 @@
         },
         {
           "type": "connects_to",
+          "target_id": "character.mira",
+          "target_file": "./Character/Mira.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memnet-core",
+          "target_file": "./Nodes/Memnet-Core.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.m-branch-17",
+          "target_file": "./Nodes/M-Branch-17.md"
+        },
+        {
+          "type": "connects_to",
           "target_id": "node.ownerless-memory",
           "target_file": "./Nodes/Ownerless-Memory.md"
         },
@@ -205,6 +270,37 @@
           "type": "connects_to",
           "target_id": "character.seiromemdas",
           "target_file": "./Character/Seiromemdas.md"
+        }
+      ]
+    },
+    {
+      "id": "character.mira",
+      "file": "./Character/Mira.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.m-branch-17",
+          "target_file": "./Nodes/M-Branch-17.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.nha-tre-khong-nguoi-nho",
+          "target_file": "./Nodes/Nha-tre-khong-nguoi-nho.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
         }
       ]
     },
@@ -257,6 +353,11 @@
           "type": "connects_to",
           "target_id": "node.mnemonic-shard",
           "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.mira",
+          "target_file": "./Character/Mira.md"
         },
         {
           "type": "connects_to",
@@ -343,14 +444,34 @@
           "target_file": "./Nodes/MIC-Zone.md"
         },
         {
+          "type": "connects_to",
+          "target_id": "node.memnet-core",
+          "target_file": "./Nodes/Memnet-Core.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memnet-society",
+          "target_file": "./Nodes/Memnet-Society.md"
+        },
+        {
           "type": "targets",
           "target_id": "node.memory-erasure",
           "target_file": "./Nodes/Memory-Erasure.md"
         },
         {
           "type": "targets",
+          "target_id": "node.memory-inspectors",
+          "target_file": "./Nodes/Memory-Inspectors.md"
+        },
+        {
+          "type": "targets",
           "target_id": "node.unlinked",
           "target_file": "./Nodes/Unlinked.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.sync-drinks",
+          "target_file": "./Nodes/Sync-Drinks.md"
         },
         {
           "type": "connects_to",
@@ -385,6 +506,11 @@
         },
         {
           "type": "connects_to",
+          "target_id": "node.sync-drinks",
+          "target_file": "./Nodes/Sync-Drinks.md"
+        },
+        {
+          "type": "connects_to",
           "target_id": "character.bach-phong",
           "target_file": "./Character/Bach-Phong.md"
         },
@@ -408,6 +534,21 @@
           "type": "connects_to",
           "target_id": "character.bach-phong",
           "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.mira",
+          "target_file": "./Character/Mira.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memnet-core",
+          "target_file": "./Nodes/Memnet-Core.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.m-branch-17",
+          "target_file": "./Nodes/M-Branch-17.md"
         },
         {
           "type": "connects_to",
@@ -436,9 +577,238 @@
           "target_file": "./Character/Quan-Lang.md"
         },
         {
+          "type": "connects_to",
+          "target_id": "node.nha-tre-khong-nguoi-nho",
+          "target_file": "./Nodes/Nha-tre-khong-nguoi-nho.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.vung-trang",
+          "target_file": "./Nodes/Vung-Trang.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-suicide",
+          "target_file": "./Nodes/Memory-Suicide.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-inspectors",
+          "target_file": "./Nodes/Memory-Inspectors.md"
+        },
+        {
           "type": "contrasts_with",
           "target_id": "node.mnemonic-shard",
           "target_file": "./Nodes/Mnemonic-Shard.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memory-inspectors",
+      "file": "./Nodes/Memory-Inspectors.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-suicide",
+          "target_file": "./Nodes/Memory-Suicide.md"
+        },
+        {
+          "type": "contrasts_with",
+          "target_id": "node.memory-liberators",
+          "target_file": "./Nodes/Memory-Liberators.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memory-liberators",
+      "file": "./Nodes/Memory-Liberators.md",
+      "relationships": [
+        {
+          "type": "contrasts_with",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.dark-memory-market",
+          "target_file": "./Nodes/Dark-Memory-Market.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mnemonic-shard",
+          "target_file": "./Nodes/Mnemonic-Shard.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.vung-trang",
+          "target_file": "./Nodes/Vung-Trang.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memory-suicide",
+      "file": "./Nodes/Memory-Suicide.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.vung-trang",
+          "target_file": "./Nodes/Vung-Trang.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-inspectors",
+          "target_file": "./Nodes/Memory-Inspectors.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memnet-core",
+      "file": "./Nodes/Memnet-Core.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        }
+      ]
+    },
+    {
+      "id": "node.memnet-society",
+      "file": "./Nodes/Memnet-Society.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "depends_on",
+          "target_id": "node.memlink",
+          "target_file": "./Nodes/Memlink.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.sync-drinks",
+          "target_file": "./Nodes/Sync-Drinks.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-inspectors",
+          "target_file": "./Nodes/Memory-Inspectors.md"
+        }
+      ]
+    },
+    {
+      "id": "node.sync-drinks",
+      "file": "./Nodes/Sync-Drinks.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memlink",
+          "target_file": "./Nodes/Memlink.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memnet-society",
+          "target_file": "./Nodes/Memnet-Society.md"
+        }
+      ]
+    },
+    {
+      "id": "node.vung-trang",
+      "file": "./Nodes/Vung-Trang.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memory-suicide",
+          "target_file": "./Nodes/Memory-Suicide.md"
+        },
+        {
+          "type": "contrasts_with",
+          "target_id": "node.unlinked",
+          "target_file": "./Nodes/Unlinked.md"
+        }
+      ]
+    },
+    {
+      "id": "node.nha-tre-khong-nguoi-nho",
+      "file": "./Nodes/Nha-tre-khong-nguoi-nho.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.memory-erasure",
+          "target_file": "./Nodes/Memory-Erasure.md"
+        },
+        {
+          "type": "depends_on",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "timeline.controlled-memory-era-2066-2074",
+          "target_file": "./Timeline/Controlled-Memory-Era-2066-2074.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.mira",
+          "target_file": "./Character/Mira.md"
+        }
+      ]
+    },
+    {
+      "id": "node.m-branch-17",
+      "file": "./Nodes/M-Branch-17.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "node.mic-zone",
+          "target_file": "./Nodes/MIC-Zone.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.mira",
+          "target_file": "./Character/Mira.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memnet-core",
+          "target_file": "./Nodes/Memnet-Core.md"
         }
       ]
     },
@@ -515,6 +885,11 @@
         },
         {
           "type": "connects_to",
+          "target_id": "node.memory-liberators",
+          "target_file": "./Nodes/Memory-Liberators.md"
+        },
+        {
+          "type": "connects_to",
           "target_id": "node.ownerless-memory",
           "target_file": "./Nodes/Ownerless-Memory.md"
         },
@@ -566,8 +941,60 @@
         },
         {
           "type": "connects_to",
+          "target_id": "node.memory-liberators",
+          "target_file": "./Nodes/Memory-Liberators.md"
+        },
+        {
+          "type": "connects_to",
           "target_id": "timeline.future-projection",
           "target_file": "./Timeline/Future-Projection.md"
+        }
+      ]
+    },
+    {
+      "id": "project.development-profile",
+      "file": "./Project/Development-Profile.md",
+      "relationships": [
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "node.memnet",
+          "target_file": "./Nodes/Memnet.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.seiromemdas",
+          "target_file": "./Character/Seiromemdas.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "project.writing-rules",
+          "target_file": "./Project/Writing-Rules.md"
+        }
+      ]
+    },
+    {
+      "id": "project.writing-rules",
+      "file": "./Project/Writing-Rules.md",
+      "relationships": [
+        {
+          "type": "depends_on",
+          "target_id": "project.development-profile",
+          "target_file": "./Project/Development-Profile.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "timeline.story-trigger-2074",
+          "target_file": "./Timeline/Story-Trigger-2074.md"
+        },
+        {
+          "type": "connects_to",
+          "target_id": "character.bach-phong",
+          "target_file": "./Character/Bach-Phong.md"
         }
       ]
     }

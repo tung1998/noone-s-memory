@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phan tich y tuong"
+  short_description: "Danh gia lore, do hop canon va rui ro"
+  default_prompt: "Use $phan-tich-y-tuong to evaluate this lore idea for canon fit, tone, and improvement options."

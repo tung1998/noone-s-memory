@@ -25,6 +25,7 @@ Thư mục này dùng để gom các quy tắc và workflow dành cho Codex tron
 
 - `.agents/skills/sang-tao/`: skill ideation để nảy hướng truyện, scene node, và biến thể tình huống.
 - `.agents/skills/trien-khai/`: skill mở rộng node hoặc beat thành văn xuôi dài, đúng tone và continuity.
+- `.agents/skills/phan-tich-y-tuong/`: skill đánh giá lore hoặc ý tưởng theo canon, tone, rủi ro continuity, và đề xuất phiên bản mạnh hơn.
 
 ## Lưu ý
 

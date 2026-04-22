@@ -22,6 +22,13 @@
 | Danh tính vs tiện ích | Con người được ổn định nhưng đánh đổi quyền sở hữu quá khứ |
 | Hợp pháp vs ngầm | Tồn tại chợ đen, người tự xóa ký ức, mạng ngoài kiểm soát |
 
+## Các node xã hội chính
+
+- `Xã hội Memnet`: đời sống tối ưu hóa, nghi lễ chia sẻ ký ức, và nghề nghiệp xoay quanh quản lý ký ức.
+- `Tự xóa ký ức`: từ quyền hợp pháp đến lỗ hổng chính trị.
+- `Vùng Trắng`: khoảng ngoại vi nơi hệ thống không còn định danh chắc chắn.
+- `Thanh tra ký ức`: lực đẩy áp lực về phía cưỡng chế và truy lùng.
+
 ## Ý nghĩa trong truyện
 
 - Tạo bối cảnh để các nhân vật nghi ngờ hệ thống.
